@@ -1,0 +1,12 @@
+@media(min-width:768px) and (max-width:1024px) {
+    .nav-text {
+        display: none;
+    }
+    #about .row {
+        gap: 0 !important;
+    }
+    .certificate-content {
+        flex-direction: column;
+        gap: 30px;
+    }
+}

@@ -1,0 +1,14 @@
+@media(max-width: 768px) {
+    #nav-bar {
+        height: autopx;
+        display: block;
+    }
+    #nav-bar a {
+        display: block;
+        padding: 10px !important;
+        text-align: left;
+    }
+    .nav-text {
+        display: none;
+    }
+}
